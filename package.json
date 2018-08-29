@@ -1,0 +1,11 @@
+{
+  "name": "miaostreet-shrinkwrap-test",
+  "version": "0.0.1",
+  "description": "To validate tnpm-shrinkwrap on miaostreet project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jfwdev@gmail.com",
+  "license": "ISC"
+}
