@@ -1,6 +1,6 @@
 {
   "name": "miaostreet-shrinkwrap-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "To validate tnpm-shrinkwrap on miaostreet project",
   "main": "index.js",
   "scripts": {
